@@ -1,0 +1,8 @@
+<items gfxroot="gfx/Items/" version="1">
+
+  <!-- Book Of Travel !-->
+  <active description="Be careful..." gfx="Book.png" maxcharges="8" name="Book Of Travel" initcharge="0" chargetype="normal" quality="4"/>
+  <active description="B{e c @refFul.l..." gfx="Book2.png" maxcharges="8" name="BooK 0f Tr@vel" initcharge="0" chargetype="normal" quality="4" hidden="true"/>
+  <active description="B{e4 c. @re00f*F=ul.l]..." gfx="Book3.png" maxcharges="8" name="B00K 0F TR4V3L" initcharge="0" chargetype="normal" quality="4" hidden="true"/>
+  <active description="B{34 cC.\ @R0010[eG*fF=ul].l.$." gfx="Book4.png" maxcharges="8" name="0KB 4f0W T03R/" initcharge="0" chargetype="normal" quality="4" hidden="true"/>
+</items>
